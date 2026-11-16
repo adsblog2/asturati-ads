@@ -1,0 +1,37 @@
+[
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/probes.json",
+    "disclosedBy": [
+      "prebid-core"
+    ],
+    "identifier": "_rdc*",
+    "type": "cookie",
+    "maxAgeSeconds": 10,
+    "cookieRefresh": false,
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/probes.json",
+    "disclosedBy": [
+      "prebid-core"
+    ],
+    "identifier": "prebid.cookieTest",
+    "type": "web",
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/debugging.json",
+    "disclosedBy": [
+      "prebid-core"
+    ],
+    "identifier": "__*_debugging__",
+    "type": "web",
+    "purposes": [
+      1
+    ]
+  }
+]
